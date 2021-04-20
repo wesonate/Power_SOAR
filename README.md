@@ -1,6 +1,5 @@
 # Power_SOAR
 Security Orchestration, Automation and Response (SOAR) project built around PowerShell
-![power_soar](https://user-images.githubusercontent.com/81455058/115311482-5537f000-a135-11eb-8018-997fd988b306.PNG)
 
 **Description**
 
