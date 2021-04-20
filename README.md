@@ -48,12 +48,15 @@ To get started, complete the following setup steps:
 2.	From the Data Gateway computer, extract the contents of POWER_SOAR.ZIP to C:\
 3.	Launch Flow.ps1 to start the Power_SOAR listener
 4.	Using the Power Automate mobile app or web portal, add a new on-demand flow to test your configuration.
-    ![ps_1](https://user-images.githubusercontent.com/81455058/115312263-a4caeb80-a136-11eb-92ff-ac099cfc1c83.PNG)
+    
+    ![ps_5](https://user-images.githubusercontent.com/81455058/115472078-b11a7b80-a1fe-11eb-9503-8ece6987a497.PNG)
+    
 5.	From the Power Automate mobile app or web app, run your new on-demand flow action.
 
     ![ps_3](https://user-images.githubusercontent.com/81455058/115313199-751ce300-a138-11eb-9cae-b5d12acc2374.PNG)
 
 6.	Confirm that the action completed successfully.  For this example, we simply open the calculator on the Data Gateway computer.
+
     ![ps_4](https://user-images.githubusercontent.com/81455058/115314222-63d4d600-a13a-11eb-926d-f69ba683ae30.PNG)
 
 **Examples**
@@ -68,3 +71,4 @@ New Workflows and On-Demand actions will be added weekly, including connectors f
 •	Flow of the Week: Local code execution by Jessica Cook - https://flow.microsoft.com/en-us/blog/flow-of-the-week-local-code-execution/
 
 
+![ps_5](https://user-images.githubusercontent.com/81455058/115472069-ab249a80-a1fe-11eb-9b71-02d32cf8d613.PNG)
