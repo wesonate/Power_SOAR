@@ -70,5 +70,3 @@ New Workflows and On-Demand actions will be added weekly, including connectors f
 
 •	Flow of the Week: Local code execution by Jessica Cook - https://flow.microsoft.com/en-us/blog/flow-of-the-week-local-code-execution/
 
-
-![ps_5](https://user-images.githubusercontent.com/81455058/115472069-ab249a80-a1fe-11eb-9b71-02d32cf8d613.PNG)
